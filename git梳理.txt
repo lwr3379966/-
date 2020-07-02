@@ -1,0 +1,16 @@
+1.先创建仓库(github/码云)
+
+2.本地服务器和远程仓库同步操作。
+
+git clone (ssh)
+
+git status
+
+git add .
+
+git commit -m ""
+
+git push origin master
+
+3.匹配ssh
+
